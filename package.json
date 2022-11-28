@@ -1,0 +1,28 @@
+{
+  "name": "coding-challenge-1",
+  "version": "1.0.0",
+  "description": "First coding challenge for phase-1(Toy problem)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rukorio-Vanessa/Coding-challenge-1.git"
+  },
+  "keywords": [
+    "if",
+    "else",
+    "elseif"
+  ],
+  "author": "Vanessa Rukorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rukorio-Vanessa/Coding-challenge-1/issues"
+  },
+  "homepage": "https://github.com/Rukorio-Vanessa/Coding-challenge-1#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
