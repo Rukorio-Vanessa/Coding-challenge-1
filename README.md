@@ -1,6 +1,35 @@
 # Coding-challenge-1
 
-### Author : Vanessa Rukorio 28/11/12
+## General Description
+Week one coding challenges using JavaSript
+
+## Getting Started
+* To use the content in the repository ensure you have
+ - A computer that runs on either: Windows 7+, Linux, Mac OS
+ - node 9.0+
+
+## Installation
+To use this repository on your machine carry out the following steps:
+
+* Open your terminal
+
+* Clone the reository using:
+   https://github.com/Rukorio-Vanessa/Coding-challenge-1.git
+
+* Now, change your directory to the new repository folder using:
+   cd Coding-challenge-1
+
+* To open in vs code use:
+   code .   
+
+## Running the Project
+The following can be used to run the program:
+* Install dependencies from npm
+  - npm install
+* To run the program use:
+  - npm start       
+* To be able to run the prompt command install:
+  -npm install prompt-sync  
 
 ## Project Description
 ### Code Challenges 
@@ -44,18 +73,23 @@
    `monthlyNetSalary` returns the Net Salary given the monthlyBasicSalary and monthlyBenefitsAndAllowances, and by calling the previously defined functions
    Net Salary = monthlyGrossSalary(monthlyBasicSalary, monthlyBenefitsAndAllowances) - monthlyPayeRate(monthlyBasicSalary) - monthlyNhifDeduction(monthlyGrossSalary(monthlyBasicSalary, monthlyBenefitsAndAllowances)) - monthlyNssfDeductions
 
+
 ### Requirements
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
 
 
-
 ## Dependencies
 - package.json
-- package-lock.json
 
 ## Technologies Used
 1. Javascript
 
+## Author 
+[Vanessa Rukorio](https://github.com/Rukorio-Vanessa) 
+
 ## Contact Information
 * Email : vanessa.kirangari@moringaschool.com
+
+## License
+The projuct is licensed under ISC
