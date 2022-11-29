@@ -74,11 +74,6 @@ The following can be used to run the program:
    Net Salary = monthlyGrossSalary(monthlyBasicSalary, monthlyBenefitsAndAllowances) - monthlyPayeRate(monthlyBasicSalary) - monthlyNhifDeduction(monthlyGrossSalary(monthlyBasicSalary, monthlyBenefitsAndAllowances)) - monthlyNssfDeductions
 
 
-### Requirements
-* Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
-
-
 ## Dependencies
 - package.json
 
